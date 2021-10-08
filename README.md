@@ -1,0 +1,1 @@
+The app is written in React. Based on TheCatsAPI. Contains Bootstrap tools.
