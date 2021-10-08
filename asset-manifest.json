@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/graduation-project/static/css/main.d6e60461.chunk.css",
+    "main.js": "/graduation-project/static/js/main.645c9346.chunk.js",
+    "main.js.map": "/graduation-project/static/js/main.645c9346.chunk.js.map",
+    "runtime-main.js": "/graduation-project/static/js/runtime-main.45a1bcf7.js",
+    "runtime-main.js.map": "/graduation-project/static/js/runtime-main.45a1bcf7.js.map",
+    "static/css/2.e197cde4.chunk.css": "/graduation-project/static/css/2.e197cde4.chunk.css",
+    "static/js/2.6a83a014.chunk.js": "/graduation-project/static/js/2.6a83a014.chunk.js",
+    "static/js/2.6a83a014.chunk.js.map": "/graduation-project/static/js/2.6a83a014.chunk.js.map",
+    "index.html": "/graduation-project/index.html",
+    "static/css/2.e197cde4.chunk.css.map": "/graduation-project/static/css/2.e197cde4.chunk.css.map",
+    "static/css/main.d6e60461.chunk.css.map": "/graduation-project/static/css/main.d6e60461.chunk.css.map",
+    "static/js/2.6a83a014.chunk.js.LICENSE.txt": "/graduation-project/static/js/2.6a83a014.chunk.js.LICENSE.txt",
+    "static/media/SearchBox.css": "/graduation-project/static/media/c.255770ec.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45a1bcf7.js",
+    "static/css/2.e197cde4.chunk.css",
+    "static/js/2.6a83a014.chunk.js",
+    "static/css/main.d6e60461.chunk.css",
+    "static/js/main.645c9346.chunk.js"
+  ]
+}
